@@ -6,7 +6,7 @@ This project provides an in-depth analysis of **Digital Marketing Campaign Perfo
 
 The analysis was conducted using **Excel for data cleaning** and **Power BI for modeling and visualization**, resulting in two interactive dashboards.  
 
-**Time Frame:** January 2026 – February 2026  
+**Time Frame:** November 2024 – February 2025 
 **Key Metrics:** Ad Spend, Impressions, Clicks, Conversions, ROI, Revenue  
 **Note:** CPC- Cost per Click, CPCv- Cost per Conversion
 
@@ -29,7 +29,9 @@ The analysis was conducted using **Excel for data cleaning** and **Power BI for 
 5. **Segmentation** – Performance analyzed by **channel, product category, and time period**.  
 
 ---
-
+## Dashboards
+![Dashboard](dashboard1.png)
+![Dashboard](dashboard2.png)
 
 ---
 ## Key Insights
